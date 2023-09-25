@@ -21,8 +21,8 @@ Calculate revenue from specified start to end date. If a person hasn’t returne
 Proposed Management Tool Terminal Interface
 1. Add room
 2. Remove room
-3. Add guest
-  |_ Person
+3. Add guest\
+  |_ Person\
   |_ VIP
 4. Remove guest
 5. Show guest
